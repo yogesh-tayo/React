@@ -1,0 +1,34 @@
+var divReactElement1=React.createElement("div",
+{className:"TARJAN"},
+React.createElement(
+    "div",
+    {className:"TARJAN1"},
+    "TARJAN1"
+),
+React.createElement(
+    "div",
+    {className:"TARJAN2"},
+    "TARJAN2"
+),
+React.createElement(
+    "div",
+    {className:"TARJAN3"},
+    "TARJAN3"
+),
+React.createElement(
+    "div",
+    {className:"TARJAN4"},
+    "TARJAN4"
+),
+React.createElement(
+    "div",
+    {className:"TARJAN5"},
+    "TARJAN5"
+),
+React.createElement(
+    "div",
+    {className:"TARJAN6"},
+    "TARJAN6"
+)
+)
+ReactDOM.render(divReactElement1,document.getElementById('root'));
