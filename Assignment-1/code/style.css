@@ -1,1 +1,60 @@
 
+@media only screen and (min-width:1024px){
+    .TARJAN1,.TARJAN2{
+        display: inline-block;
+        margin: 20px 20px;
+        background-color: yellow;
+        height: 200px;
+        width: 46%;
+    }
+    .TARJAN3{
+        margin: 20px 25px 20px 20px;
+        background-color:tomato;
+        height: 200px;
+    }
+    .TARJAN4,.TARJAN5,.TARJAN6{
+        display: inline-block;
+        background-color: violet;
+        height: 100px;
+        width: 29%;
+        margin: 20px 20px 20px 22px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width:727px){
+    .TARJAN1,.TARJAN2 {
+        background-color: yellow;
+        margin: 20px 20px;
+        height: 100px;
+    }
+    .TARJAN3{
+        background-color: tomato;
+        margin: 20px 20px;
+        height: 200px;
+    }
+    .TARJAN4,.TARJAN5,.TARJAN6{
+        background-color:blueviolet;
+        margin: 20px 20px;
+        height: 100px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px){
+    .TARJAN1,.TARJAN2{
+        display: inline-block;
+        margin: 20px 20px;
+        background-color: yellow;
+        height: 200px;
+        width: 44%;
+    }
+    .TARJAN3{
+        margin: 20px 20px;
+        background-color:tomato;
+        height: 200px;
+    }
+    .TARJAN4,.TARJAN5,.TARJAN6{
+        margin: 20px 20px;
+        background-color:violet;
+        height: 100px;
+    }
+}
